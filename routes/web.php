@@ -11,6 +11,6 @@
 |
 */
 
-Route::get('/pawanbist', function () {
+Route::get('/', function () {
     return view('pawan_bist');
 });
