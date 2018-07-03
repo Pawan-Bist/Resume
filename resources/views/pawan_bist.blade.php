@@ -9,25 +9,25 @@
     <meta name="author" content="">
 
     <title>Pawan Bist</title>
-    <link rel="icon" type="image/png" href="{{asset('assets/icons/cv.png')}}"/>
+    <link rel="icon" type="image/png" href="assets/icons/cv.png"/>
 
     <!-- Bootstrap core CSS -->
-    <link href="{{asset('assets/css/bootstrap.min.css')}}" rel="stylesheet">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom fonts for this template -->
     <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:100,200,300,400,500,600,700,800,900" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i" rel="stylesheet">
-    <link href="{{asset('assets/css/font-awesome.min.css')}}" rel="stylesheet">
-    <!-- <link href="{{asset('assets/css/devicons.min.css')}}" rel="stylesheet"> -->
-    <link href="{{asset('assets/css/devicon.min.css')}}"  rel="stylesheet">
-    <!-- <link href="{{asset('assets/fonts/devicons.ttf')}}" rel="stylesheet">
-    <link href="{{asset('assets/fonts/devicons.woff')}}" rel="stylesheet"> -->
-    <link href="{{asset('assets/fonts/devicon.ttf')}}" rel="stylesheet">
-    <link href="{{asset('assets/fonts/devicon.woff')}}" rel="stylesheet">
-    <link href="{{asset('assets/css/simple-line-icons.css')}}" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <!-- <link href="assets/css/devicons.min.css" rel="stylesheet"> -->
+    <link href="assets/css/devicon.min.css"  rel="stylesheet">
+    <!-- <link href="assets/fonts/devicons.ttf" rel="stylesheet">
+    <link href="assets/fonts/devicons.woff" rel="stylesheet"> -->
+    <link href="assets/fonts/devicon.ttf" rel="stylesheet">
+    <link href="assets/fonts/devicon.woff" rel="stylesheet">
+    <link href="assets/css/simple-line-icons.css" rel="stylesheet">
 
     <!-- Custom styles for this template -->
-    <link href="{{asset('assets/css/resume.min.css')}}" rel="stylesheet">
+    <link href="assets/css/resume.min.css" rel="stylesheet">
 
   </head>
 
@@ -372,14 +372,14 @@
     </div>
 
     <!-- Bootstrap core JavaScript -->
-    <script src="{{asset('assets/js/jquery.min.js')}}"></script>
+    <script src="assets/js/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
 
     <!-- Plugin JavaScript -->
-    <script src="{{asset('assets/js/jquery.easing.min.js')}}"></script>
+    <script src="assets/js/jquery.easing.min.js"></script>
 
     <!-- Custom scripts for this template -->
-    <script src="{{asset('assets/js/resume.min.js')}}"></script>
+    <script src="assets/js/resume.min.js"></script>
 
   </body>
 
